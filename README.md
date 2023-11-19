@@ -1,16 +1,12 @@
 # db_miner
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/fd156233-aace-4c34-b55f-dece1ba00914
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/5a7876b4-4b1a-4496-9113-74e53f8440e9" width="300px">
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/30af9b3d-c5d3-4a86-80b9-f13b53e5884e" width="300px">
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/ab52a684-cd33-4a45-b82e-1a74a779d761" width="300px">
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/fab57164-e98e-4685-86b2-42cb3d50dcca" width="300px">
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/2c46d9ea-ca1f-49a6-91b9-f9bd4ba21050" width="300px">
+<img src="https://github.com/kevadiyaharshita/db_miner_Application/assets/133105068/403923eb-ce2e-46e6-80a6-01d722f32d07" width="300px">
